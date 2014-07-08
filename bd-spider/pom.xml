@@ -46,6 +46,12 @@
 			<version>${project.version}</version>
 		</dependency>
 		
+		<dependency>
+			<groupId>com.changhong.bd</groupId>
+			<artifactId>bd-quartz</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		
 		
 		<dependency>
 			<groupId>com.changhong.bd</groupId>
